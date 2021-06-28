@@ -15,11 +15,11 @@
 	<description>User micro-service Springboot</description>
 	<properties>
 		<java.version>11</java.version>
-		<properties>
-			  <sonar.projectKey>Utkalkeshari_Sonar</sonar.projectKey>
-			  <sonar.organization>utkalkeshari1</sonar.organization>
-			  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		</properties>
+		
+		<sonar.projectKey>Utkalkeshari_Sonar</sonar.projectKey>
+		 <sonar.organization>utkalkeshari1</sonar.organization>
+		 <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+		
 	</properties>
 	
 	<dependencyManagement>
